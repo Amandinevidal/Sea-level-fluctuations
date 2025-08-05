@@ -5,7 +5,7 @@ Authors@R:c(
     person("Amandine", "Vidal-Hosteng","amandine.vidalhosteng@gmail.com", role = c("aut", "cre")),
     person("Robin","Aguilée","robin.aguilee@utoulouse.fr",role = "ctb")
     )
-Description: An individual-based model to test variation in colonization probability based on ecological and evolutionary hypotheses in a mainland-island system.
+Description: 
 License: MIT + file LICENSE
 ByteCompile: true
 Encoding: UTF-8

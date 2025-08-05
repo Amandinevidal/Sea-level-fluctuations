@@ -8,6 +8,8 @@
 ## Contents
 
 - [:file_folder: Simulation](R)
+  - [Cfunctions.C](C) - Gathers the functions constituting the model and
+    written in C.
 
 ### Licenses
 
