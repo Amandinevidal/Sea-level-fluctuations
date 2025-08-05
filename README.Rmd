@@ -1,0 +1,29 @@
+---
+output: github_document
+authors: Amandine Vidal-Hosteng, Christophe Thébaud, Rampal Etienne, Robin Aguilée
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "README-"
+)
+# Please put your title here to include it in the file below.
+Title <- "Colonization IBM"
+```
+
+# Archipelago with sea-level fluctuations IBM
+
+--
+
+## Contents
+
+  - [:file_folder: Simulation](R)
+
+### Licenses
+
+**Code :** See the [DESCRIPTION](DESCRIPTION) file
+
