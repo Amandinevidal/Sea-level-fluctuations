@@ -4,7 +4,7 @@
 #### Encoding : UTF-8
 #### Email : amandine.vidal-hosteng@univ-tlse3.fr
 ####
-#### this script constructs the phylogenies of existing species on the 
+#### this script builds the phylogenies of existing species on the 
 #### archipelago at 100-generation intervals, which are stored in the 
 #### file ending with "sim1.irun_insular_tree.txt" (irun being the simulation
 #### replicate number); the subphylogenies of continental species whose 
