@@ -29,7 +29,7 @@ tint <- 1e4	            	 ## time interval between two equilibria estimates
 phi_max <- 79*3.141592/180 ## maximum angle for apex of the cone (80 degres) 3.141592/4
 phi_min <- 10*3.141592/180 ## minimum apex angle of the island's cone  
 d <- -log(0.2)/(0.8*tl[1]) ## increase coefficient for theta function, with 80% (1-0.9) of its maximum opening at 80% of island's lifetimex 
-amp <- 0.15              ## amplitude of sea level variations (sinusoidal function) 0.23 20% de l'aire voire 30 maximum moitié moins
+amp <- 0.15              ## amplitude of sea level variations (sinusoidal function)
 period <- 5000             ## period of sea level variations (sinusoidal function) moitié moins
 psi <-  5*(3.141592/180)   ## mainland slope (here 5 degrees converted in radians)
 h_breakpoint <- 4          ## mainland height (here > max elevation of islands ~ 3)
