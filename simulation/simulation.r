@@ -34,7 +34,7 @@ if (static) { ## static archipelago
     output <- runsimul(simulnumber, beta, gamma, sigma, alpha, tau, mui, ci, muc, cc, Nc, theta, nbi, Kmax, ti, pmax, tl, dc, di, tmax, tiss, wtup, nrun, rngseed, teq, tini, phi_max, d, amp, period, phi_min, psi, h_break_point)
     source("build_phylo.r")
     source("plotresults.r")
-    # source("stat_phylo.r")
+    source("stat_phylo.r")
 }
 
 
