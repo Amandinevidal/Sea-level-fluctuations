@@ -2,7 +2,7 @@
 #### Date : 2025-01-31
 #### Author : Amandine Vidal-Hosteng
 #### Encoding : UTF-8
-#### Email : amandine.vidal-hosteng@univ-tlse3.fr
+#### Email : amandine.vidalhosteng@gmail.com
 #### ------------------------------------------------------------------ #
 
 rm(list = ls())

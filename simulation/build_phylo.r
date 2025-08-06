@@ -2,7 +2,7 @@
 #### Date : 2025-01-14
 #### Author : Amandine Vidal-Hosteng
 #### Encoding : UTF-8
-#### Email : amandine.vidal-hosteng@univ-tlse3.fr
+#### Email : amandine.vidalhosteng@gmail.com
 ####
 #### this script builds the phylogenies of existing species on the 
 #### archipelago at 100-generation intervals, which are stored in the 
